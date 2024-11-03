@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-- Create a new GitHub repo named **range-starter**
+- Create a new GitHub repo named **range-challenges-starter**
 - Upload your code to your new repo once you've written and tested your scripts
 - Teacher will review your work during Teacher Time
 
